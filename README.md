@@ -1,8 +1,5 @@
 # Data Structures And Algorithms
 
-## Author Information
-**Name**: Asad Mehmood  
-**Registration Number**: BCPE223053
 
 ## Project Description
 This project aims to provide a comprehensive menu-driven implementation of various data structures and algorithms. The project includes functionalities for linked lists (singly, doubly, circular), stack, queue, tree, shortest path algorithms, and sorting algorithms. Each section of the project demonstrates the implementation and usage of these fundamental data structures and algorithms.
